@@ -1,14 +1,3 @@
-{
-  "title": "Notebook Completer",
-  "description": "Notebook completer settings.",
-  "jupyter.lab.shortcuts": [
-    {
-      "command": "completer:invoke-notebook",
-      "keys": ["Tab"],
-      "selector": ".jp-Notebook.jp-mod-editMode .jp-mod-completer-enabled"
-    }
-  ],
-  "properties": {},
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:66cafd20d981c8205eec5284cb512b4f7d274c808e8a9a1f899df68997c68a1e
+size 348

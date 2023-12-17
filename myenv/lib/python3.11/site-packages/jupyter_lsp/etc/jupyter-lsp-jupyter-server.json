@@ -1,7 +1,3 @@
-{
-  "ServerApp": {
-    "jpserver_extensions": {
-      "jupyter_lsp": true
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f57fbbeac55b10dd9593a006470e73aba87157b34c5734765208573a80e3fa67
+size 86

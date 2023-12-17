@@ -1,20 +1,3 @@
-{
-  "title": "Launch Shortcuts",
-  "description": "Launch Shortcuts.",
-  "jupyter.lab.menus": {
-    "main": [
-      {
-        "id": "jp-mainmenu-help",
-        "items": [
-          {
-            "command": "jupyter-notebook:launch-tree",
-            "rank": 1
-          }
-        ]
-      }
-    ]
-  },
-  "properties": {},
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce5c101994bc636fbec3e524171e0715043da4e5ffdffaae752d53b528dcc09e
+size 375

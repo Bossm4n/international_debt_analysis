@@ -1,32 +1,3 @@
-{
-  "jupyter.lab.menus": {
-    "main": [
-      {
-        "id": "jp-mainmenu-file",
-        "items": [
-          {
-            "type": "separator",
-            "rank": 10
-          },
-          {
-            "type": "submenu",
-            "rank": 10,
-            "submenu": {
-              "id": "jp-mainmenu-file-notebookexport",
-              "label": "Save and Export Notebook As…"
-            }
-          },
-          {
-            "type": "separator",
-            "rank": 10
-          }
-        ]
-      }
-    ]
-  },
-  "title": "Notebook Export",
-  "description": "Notebook Export settings.",
-  "properties": {},
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4da53118f40492d6c44ab0f658ab410cf6c7a600d056253d04da01b954240a1
+size 672

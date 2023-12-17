@@ -1,34 +1,3 @@
-{
-  "$schema": "http://json-schema.org/draft-07/schema",
-  "title": "Notebook Shell",
-  "description": "Notebook Shell layout settings.",
-  "properties": {
-    "layout": {
-      "$ref": "#/definitions/layout",
-      "type": "object",
-      "title": "Customize shell widget positioning",
-      "description": "Overrides default widget position in the application layout",
-      "default": {
-        "Markdown Preview": { "area": "right" }
-      }
-    }
-  },
-  "additionalProperties": false,
-  "type": "object",
-  "definitions": {
-    "layout": {
-      "type": "object",
-      "properties": {
-        "[\\w-]+": {
-          "type": "object",
-          "properties": {
-            "area": {
-              "enum": ["left", "right"]
-            }
-          },
-          "additionalProperties": false
-        }
-      }
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:723517e30c1e70ab7bf5788d683252b5bf530911bd74cdf6a2e183cad3ae6165
+size 825

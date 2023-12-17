@@ -1,10 +1,3 @@
-{
-  "title": "Title widget",
-  "description": "Title widget",
-  "jupyter.lab.toolbars": {
-    "TopBar": [{ "name": "widgetTitle", "rank": 10 }]
-  },
-  "properties": {},
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a17c69f3c806f47c55b47df4bf82dde0daed97f9a7a16ed65eaf5789348ca00
+size 223

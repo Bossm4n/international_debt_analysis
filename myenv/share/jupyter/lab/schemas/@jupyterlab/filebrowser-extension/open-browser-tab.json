@@ -1,16 +1,3 @@
-{
-  "title": "File Browser Open Browser Tab",
-  "description": "File Browser Open Browser Tab settings.",
-  "jupyter.lab.menus": {
-    "context": [
-      {
-        "command": "filebrowser:open-browser-tab",
-        "selector": ".jp-DirListing-item[data-isdir=\"false\"]",
-        "rank": 1.6
-      }
-    ]
-  },
-  "properties": {},
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc0a22f6b1c80d20bc2485f9e828a4ad2d9971022d073226bd29c48a379719e
+size 385

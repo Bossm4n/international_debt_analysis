@@ -1,5 +1,3 @@
-{
-  "packageManager": "python",
-  "packageName": "jupyterlab_pygments",
-  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package jupyterlab_pygments"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b90c1a3c707e0358fbf90b5708a606bd2462d82bb68a99efc8c471527e23cac
+size 199

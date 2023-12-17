@@ -1,32 +1,3 @@
-{
-  "jupyter.lab.menus": {
-    "main": [
-      {
-        "id": "jp-mainmenu-file",
-        "items": [
-          {
-            "type": "separator",
-            "rank": 100
-          },
-          {
-            "command": "hub:control-panel",
-            "rank": 100
-          },
-          {
-            "command": "hub:logout",
-            "rank": 100
-          },
-          {
-            "type": "separator",
-            "rank": 100
-          }
-        ]
-      }
-    ]
-  },
-  "title": "JupyterHub",
-  "description": "JupyterHub settings.",
-  "properties": {},
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a865b2598e8b078287f3a6ba3722bb468173d7c94ec2f0184ae62c3fd2ad177
+size 613

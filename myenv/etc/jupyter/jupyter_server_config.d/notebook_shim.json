@@ -1,7 +1,3 @@
-{
-    "ServerApp": {
-        "jpserver_extensions": {
-            "notebook_shim": true
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75ff94669b4a06f17c5553397dab9722626f3b8d12ddd8d43e0866173b3eb3b
+size 106

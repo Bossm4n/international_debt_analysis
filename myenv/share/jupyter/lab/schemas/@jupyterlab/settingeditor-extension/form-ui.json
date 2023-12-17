@@ -1,14 +1,3 @@
-{
-  "title": "Settings Editor Form UI",
-  "description": "Settings editor form ui settings.",
-  "properties": {
-    "settingEditorType": {
-      "title": "Type of editor for the setting.",
-      "description": "Set the type of editor to use while editing your settings.",
-      "enum": ["json", "ui"],
-      "default": "ui"
-    }
-  },
-  "additionalProperties": false,
-  "type": "object"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf6642d8ef9602c6fcf7a802c73b8048ca1f2596daccc24af167993cc9c2084d
+size 389
