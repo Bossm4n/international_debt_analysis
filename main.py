@@ -3,7 +3,6 @@ import csv
 import pandas as pd
 import numpy as np
 
-
 def get_misssing_values(total_data):
     all_categories_num = [{'numof_country_name': 0}, {'numof_country_code': 0}, {'numof_counterpart_area_name': 0},
                           {'numof_counterpart_area_code': 0}, {
