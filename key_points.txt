@@ -1,0 +1,65 @@
+The numof country name values missing is 3
+The numof country code values missing is 5
+The numof counterpart area name values missing is 5
+The numof counterpart area code values missing is 5
+The numof series name values missing is 5
+The numof series code values missing is 5
+The numof 1970 values missing is 42396
+The numof 1971 values missing is 41546
+The numof 1972 values missing is 40813
+The numof 1973 values missing is 40029
+The numof 1974 values missing is 39476
+The numof 1975 values missing is 38702
+The numof 1976 values missing is 38224
+The numof 1977 values missing is 37333
+The numof 1978 values missing is 36675
+The numof 1979 values missing is 36398
+The numof 1980 values missing is 35609
+The numof 1981 values missing is 33984
+The numof 1982 values missing is 33654
+The numof 1983 values missing is 33346
+The numof 1984 values missing is 32858
+The numof 1985 values missing is 32459
+The numof 1986 values missing is 32324
+The numof 1987 values missing is 32721
+The numof 1988 values missing is 32902
+The numof 1989 values missing is 31687
+The numof 1990 values missing is 31808
+The numof 1991 values missing is 31910
+The numof 1992 values missing is 30713
+The numof 1993 values missing is 29821
+The numof 1994 values missing is 29184
+The numof 1995 values missing is 28851
+The numof 1996 values missing is 28168
+The numof 1997 values missing is 28153
+The numof 1998 values missing is 27857
+The numof 1999 values missing is 26352
+The numof 2000 values missing is 26740
+The numof 2001 values missing is 26721
+The numof 2002 values missing is 26912
+The numof 2003 values missing is 27177
+The numof 2004 values missing is 26959
+The numof 2005 values missing is 27140
+The numof 2006 values missing is 27005
+The numof 2007 values missing is 26754
+The numof 2008 values missing is 26960
+The numof 2009 values missing is 26741
+The numof 2010 values missing is 26759
+The numof 2011 values missing is 27544
+The numof 2012 values missing is 27716
+The numof 2013 values missing is 27310
+The numof 2014 values missing is 26094
+The numof 2015 values missing is 26988
+The numof 2016 values missing is 26931
+The numof 2017 values missing is 26738
+The numof 2018 values missing is 26829
+The numof 2019 values missing is 27368
+The numof 2020 values missing is 26978
+The numof 2021 values missing is 64930
+The numof 2022 values missing is 65012
+The numof 2023 values missing is 65135
+The numof 2024 values missing is 65255
+The numof 2025 values missing is 65555
+The numof 2026 values missing is 65778
+The numof 2027 values missing is 65921
+The numof 2028 values missing is 66257
